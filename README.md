@@ -1,4 +1,4 @@
-# NodeJS Setup With HTML, CSS, JS & EJS
+# NodeJS setup with HTML, CSS, JS & EJS
 
 This was created as part of YouTube Video. Links below
 
